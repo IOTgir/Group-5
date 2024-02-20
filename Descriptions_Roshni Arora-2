@@ -1,0 +1,9 @@
+Option-1 
+Rely on the Auth0 identity platform to add sophisticated authentication and authorization to your applications.
+Centralize and manage users from multiple identity providers, giving them branded,
+seamless signup and login experiences. Finely control access with a degree of customization that can accommodate even the most complex security requirements.
+Option-2
+Firebase Authentication integrates tightly with other Firebase services, and it leverages industry standards like OAuth 2.0 and OpenID Connect,
+so it can be easily integrated with your custom backend.
+Firebase Authentication provides backend services, easy-to-use SDKs, and ready-made UI libraries to authenticate users to your app.
+It supports authentication using passwords, phone numbers, and popular federated identity providers like Google, Facebook, and Twitter.
